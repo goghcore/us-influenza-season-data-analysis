@@ -8,4 +8,5 @@ Data on the US population by geography is provided by the US Census Bureau here.
 _Note:_ As the population data are estimates, the sum of the numbers from the different age groups may not sum up to the total.
 ## Result & Recommendations
 **In response to state risk:** Vulnerable people are at risk of flu-related complications & death. States with large percentages of vulnerable population should be prioritized (e.g. California, Florida, New York).
+
 **Proactive staffing:** To ensure that medical centers have enough staff to handle the increase in patients during the peak months of December through March, the medical staffing agency should start sending staff to medical centers before December, ideally in November.
