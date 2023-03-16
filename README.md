@@ -12,3 +12,5 @@ _Note:_ As the population data are estimates, the sum of the numbers from the di
 **In response to state risk:** Vulnerable people are at risk of flu-related complications & death. States with large percentages of vulnerable population should be prioritized (e.g. California, Florida, New York).
 
 **Proactive staffing:** To ensure that medical centers have enough staff to handle the increase in patients during the peak months of December through March, the medical staffing agency should start sending staff to medical centers before December, ideally in November.
+
+The Tableau storyboard can be found [here](https://public.tableau.com/app/profile/goghcore/viz/InfluenzaSeasonPreventionStrategy2018/InfluenzaSeasonPreventionStrategy).
