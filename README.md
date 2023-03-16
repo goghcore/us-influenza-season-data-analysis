@@ -9,7 +9,7 @@ Data on the US population by geography is provided by the US Census Bureau.
 
 Both datasets are uploaded to this repository [here](https://github.com/goghcore/us-influenza-season-data-analysis/tree/main/data/original-data).
 
-_Note:_ As the population data are estimates, the sum of the numbers from the different age groups may not sum up to the total.
+_Note: As the population data are estimates, the sum of the numbers from the different age groups may not sum up to the total._
 ## Result & Recommendations
 **In response to state risk:** Vulnerable people are at risk of flu-related complications & death. States with large percentages of vulnerable population should be prioritized (e.g. California, Florida, New York).
 
