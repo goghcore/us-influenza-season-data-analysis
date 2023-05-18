@@ -24,7 +24,7 @@ Predictive Analysis: Utilizing predictive modeling techniques, the project forec
 # Tools
 In this project, Excel, Loom, and Tableau are utilized as tools.
 
-The project involves sourcing, profiling, transforming, and integrating data using Excel. Statistical hypothesis testing is subsequently performed using Excel's Data Analysis tools. Tableau is employed to create a data narrative, guiding the stakeholders through various aspects of the prevention strategy. Lastly, Loom is employed to provide the audio component for the presentation.
+The project involves sourcing, profiling, transforming, and integrating data using Excel. Statistical hypothesis testing is subsequently performed using Excel's Data Analysis tools. Tableau is employed to create a data narrative, guiding the stakeholders through various aspects of the prevention strategy. Lastly, Loom is used to provide the audio component for the presentation.
 
 ## Result & Recommendations
 **In response to state risk:** Vulnerable people are at risk of flu-related complications & death. States with large percentages of vulnerable population should be prioritized (e.g. California, Florida, New York).
